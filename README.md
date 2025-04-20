@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TheGuy3201
-- 👀 I’m interested in Gaming, Content Creation (YouTube)
-- 🌱 I’m currently learning all kinds of Game Development
+- 👀 I’m interested in Gaming, Content Creation, and developing various apps
+- 🌱 I’m currently learning all kinds of Game Development, and some content creation.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: He/Him
